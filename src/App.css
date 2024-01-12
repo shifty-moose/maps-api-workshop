@@ -1,0 +1,32 @@
+#root {
+  max-width: 100%;
+  margin: 0 0;
+  padding: 2rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 50%;
+  margin: auto; /* Add this line */
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#ipInfo {
+  text-align: left;
+}
+
+#infoDiv {
+  display:flex;
+  justify-content: space-between;
+  padding-bottom: 1rem;
+}
+
+
